@@ -1,4 +1,4 @@
 # JavaLessons
 
 
-todo: some textsdasd
+todo: some text
